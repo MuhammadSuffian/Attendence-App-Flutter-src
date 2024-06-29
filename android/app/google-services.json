@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019732162059",
+    "project_id": "attendence-app-3af7c",
+    "storage_bucket": "attendence-app-3af7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019732162059:android:ba0e101a2e82af7379790e",
+        "android_client_info": {
+          "package_name": "com.example.loginui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXDvONkLcC0MC6GZ0t0RGAnuS8v2VS6Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
